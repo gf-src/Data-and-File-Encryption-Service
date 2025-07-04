@@ -1,5 +1,5 @@
 # Data-Encryption-Service
-a program that is capable of encrypting and decrypting data withh the use of a user provided password.
+a program that is capable of encrypting and decrypting data with the use of a user provided password.
 
 This README file will contain instructions on how to use this program along with warnings when it comes to using this program to encrypt files.
 
